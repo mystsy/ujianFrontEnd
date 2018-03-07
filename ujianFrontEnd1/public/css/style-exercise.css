@@ -1,0 +1,23 @@
+.container {
+    width: 70%;
+}
+
+#exTab3 .nav-pills > li > a {
+    border-radius: 4px 4px 0 0 ;
+}
+  
+#exTab3 .tab-content {
+    color : black;
+    padding : 5px 15px;
+}
+
+.form > .item {
+    margin-bottom: 10px;
+}
+
+.form {
+    padding: 20px 10px 10px 10px;
+}
+
+
+
